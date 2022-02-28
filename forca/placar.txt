@@ -1,0 +1,8 @@
+Wallace - 1000 
+Sergio - 950
+Henrique - 850 
+Jose - 1000
+Wallace : 500
+Wallace : 1000
+Igor : 800
+Caio : 600

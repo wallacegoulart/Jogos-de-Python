@@ -1,0 +1,12 @@
+Wallace : 1000
+Jose : 900
+Antonio : 800
+Wallace : 700
+Wallace : 800
+Wallace : 700
+Wallace : 900
+Wallace : 900
+Andre BOCa : 600
+Igor Mauricio : 700
+Alemão : 600
+Sergin : 800
